@@ -1,4 +1,4 @@
-package greet
+package GolangWeek01Day07
 
 import "fmt"
 
